@@ -30,5 +30,5 @@ function dec(n) {
 
 function makeInt(n) {
   makeInt('n')
-  return makeInt
+  return makeInt.integer()
 }
