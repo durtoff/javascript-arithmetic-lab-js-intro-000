@@ -22,3 +22,13 @@ function inc(n) {
   inc = ++n
   return inc
 }
+
+function dec(n) {
+  inc = --n
+  return inc
+}
+
+function makeInt(n) {
+  makeInt(n)
+  return inc
+}
