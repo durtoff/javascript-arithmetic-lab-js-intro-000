@@ -19,6 +19,6 @@ function divide(a, b) {
 }
 
 function inc(n) {
-  inc = 867 + n
+  inc = ++n
   return inc
 }
