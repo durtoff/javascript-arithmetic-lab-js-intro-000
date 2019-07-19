@@ -1,2 +1,4 @@
-var add = 1 + 2
-return add
+function add(a, b) {
+  add = a + b
+  return = add
+}
